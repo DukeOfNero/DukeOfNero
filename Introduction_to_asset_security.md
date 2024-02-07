@@ -11,13 +11,13 @@ Previously, you learned about three foundational security terms:
     Vulnerability: A weakness that can be exploited by a threat
 
 These words tend to be used interchangeably in everyday life. But in security, they are used to describe very specific concepts when responding to and planning for security events. In this reading, you’ll identify what each term represents and how they are related.
-Security risk
+### Security risk
 
 Security plans are all about how an organization defines risk. However, this definition can vary widely by organization. As you may recall, a risk is anything that can impact the confidentiality, integrity, or availability of an asset. Since organizations have particular assets that they value, they tend to differ in how they interpret and approach risk.
 
 One way to interpret risk is to consider the potential effects that negative events can have on a business. Another way to present this idea is with this calculation:
 
-Likelihood x Impact = Risk
+### Likelihood x Impact = Risk
 
 For example, you risk being late when you drive a car to work. This negative event is more likely to happen if you get a flat tire along the way. And the impact could be serious, like losing your job. All these factors influence how you approach commuting to work every day. The same is true for how businesses handle security risks.
 
@@ -32,7 +32,7 @@ In general, we calculate risk in this field to help:
     Prioritize the critical assets that require attention
 
 The business impact of a negative event will always depend on the asset and the situation. Your primary focus as a security professional will be to focus on the likelihood side of the equation by dealing with certain factors that increase the odds of a problem.
-Risk factors
+### Risk factors
 
 As you’ll discover throughout this course, there are two broad risk factors that you’ll be concerned with in the field:
 
