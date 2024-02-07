@@ -1,3 +1,5 @@
+link: https://www.coursera.org/
+
 <h2>Understand risks, threats, and vulnerabilities</h2>
 
 When security events occur, you’ll need to work in close coordination with others to address the problem. Doing so quickly requires clear communication between you and your team to get the job done.
@@ -43,12 +45,12 @@ As you’ll discover throughout this course, there are two broad risk factors th
 The risk of an asset being harmed or damaged depends greatly on whether a threat takes advantage of vulnerabilities.
 
 Let’s apply this to the risk of being late to work. A threat would be a nail puncturing your tire, since tires are vulnerable to running over sharp objects. In terms of security planning, you would want to reduce the likelihood of this risk by driving on a clean road.
-Categories of threat
+### Categories of threat
 
 Threats are circumstances or events that can negatively impact assets. There are many different types of threats. However, they are commonly categorized as two types: intentional and unintentional.
 
 For example, an intentional threat might be a malicious hacker who gains access to sensitive information by targeting a misconfigured application. An unintentional threat might be an employee who holds the door open for an unknown person and grants them access to a restricted area. Either one can cause an event that must be responded to.
-Categories of vulnerability
+### Categories of vulnerability
 
 Vulnerabilities are weaknesses that can be exploited by threats. There’s a wide range of vulnerabilities, but they can be grouped into two categories: technical and human.
 
